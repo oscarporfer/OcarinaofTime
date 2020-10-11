@@ -1,0 +1,11 @@
+{
+  "name": "Hyrule",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "repository": "https://github.com/oscarporfer/OcarinaofTime.git",
+  "author": "oscarporfer <oscarfportes@gmail.com>",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
